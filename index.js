@@ -22,7 +22,7 @@ MySqlDemo.prototype.startDb = function() {
 		connection;
 
 	connection = mysql.createConnection({
-		host: 'localhost'
+		host: 'localhost',
 		user: 'user',
 		password: 'password',
 		database: 'database'
