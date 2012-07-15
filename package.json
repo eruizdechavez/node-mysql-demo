@@ -1,0 +1,18 @@
+{
+  "author": "Erick Ruiz <erickrdch@gmail.com> (erickrdch.com)",
+  "name": "mysql",
+  "description": "An enxample on how to use MySQL connection on Node.js",
+  "version": "0.0.0",
+  "homepage": "erickrdch.com",
+  "main": "index.js",
+  "dependencies": {
+    "q": "*",
+    "mysql": "2.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "private": true
+}
